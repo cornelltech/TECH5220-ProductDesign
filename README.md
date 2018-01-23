@@ -1,4 +1,4 @@
-# TECH 5220 **Visual and Interaction Design for Digital Products**
+# TECH 5220: **Visual and Interaction Design for Digital Products**
 
 This course introduces students to the concepts, methods, techniques, and theory of visual design in the context of creating digital products. Students will analyze examples, past and present, of form in relationship to content on web and mobile. From there, they will learn and practice basic principles for typography, color, and composition through prototyping, visual iteration, and critique. Brand elements, UX principles, accessibility, user research, and pattern libraries will be discussed.
 
