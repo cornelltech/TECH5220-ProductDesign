@@ -37,23 +37,23 @@ This course introduces students to the concepts, methods, techniques, and theory
 
 *Note: This is the first time that this class is being offered here. Content, assignments, and pace are all subject to change based on feedback.*
 
-1. **Introduction: what is design?** *Thursday, January 25*
+1. [**Introduction: what is design?**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-1:-Introduction:-what-is-design%3F) *Thursday, January 25*
 
-2. **A short history of design tools, setting up a workflow** *Tuesday, January 30*
+2. [**A short history of design tools, setting up a workflow**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-2:-A-short-history-of-design-tools,-setting-up-a-workflow) *Tuesday, January 30*
 
-3. **Color and composition** *Thursday, February 1*
+3. [**Color and composition**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-3:-Color-and-composition) *Thursday, February 1*
 
-4. **Typography Part 1** *Tuesday, February 6*
+4. [**Typography Part 1**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-4:-Typography-Part-1) *Tuesday, February 6*
 
-5. **Typography Part 2** *Thursday, February 8*
+5. [**Typography Part 2**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-5:-Typography-Part-2) *Thursday, February 8*
 
-6. **User experience** *Tuesday, February 13*
+6. [**User experience**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-6:-User-experience-and-User-Flows) *Tuesday, February 13*
 
-7. **Product design** *Thursday, February 15*
+7. [**Product design**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-7:-So-then-what-is-Product-Design%3F) *Thursday, February 15*
 
-8. **Branding and design patterns** *Thursday, February 22*
+8. [**Branding and design systems**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-8:-Branding-and-design-systems) *Thursday, February 22*
 
-9. **Final review and critique** *Thursday, February 27*
+9. [**Final review and critique**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-9:-Final-prototype-reviews-and-critique) *Thursday, February 27*
 
 
 *Class structure:*
