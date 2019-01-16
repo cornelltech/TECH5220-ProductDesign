@@ -35,25 +35,24 @@ This course introduces students to the concepts, methods, techniques, and theory
 
 *Schedule:*
 
-*Note: This is the first time that this class is being offered here. Content, assignments, and pace are all subject to change based on feedback.*
 
-1. [**Introduction: what is design?**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-1:-Introduction:-what-is-design%3F) *Thursday, January 25*
+1. [**Introduction: what is design?**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-1:-Introduction:-what-is-design%3F) *Tuesday, January 22*
 
-2. [**A short history of design tools, setting up a workflow**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-2:-A-short-history-of-design-tools,-setting-up-a-workflow) *Tuesday, January 30*
+2. [**A short history of design tools, setting up a workflow**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-2:-A-short-history-of-design-tools,-setting-up-a-workflow) *Thursday, January 24*
 
-3. [**Color and composition**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-3:-Color-and-composition) *Thursday, February 1*
+3. [**Color and composition**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-3:-Color-and-composition) *Tuesday, January 29*
 
-4. [**Typography Part 1**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-4:-Typography-Part-1) *Tuesday, February 6*
+4. [**Typography Part 1**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-4:-Typography-Part-1) *Thursday, January 31*
 
-5. [**Typography Part 2**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-5:-Typography-Part-2) *Thursday, February 8*
+5. [**Typography Part 2**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-5:-Typography-Part-2) *Tuesday, February 5*
 
-6. [**User experience**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-6:-User-experience-and-User-Flows) *Tuesday, February 13*
+6. [**User experience**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-6:-User-experience-and-User-Flows) *Tuesday, February 12*
 
-7. [**Product design**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-7:-So-then-what-is-Product-Design%3F) *Thursday, February 15*
+7. [**Product design**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-7:-So-then-what-is-Product-Design%3F) *Tuesday, February 19*
 
-8. [**Branding and design systems**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-8:-Branding-and-design-systems) *Thursday, February 22*
+8. [**Branding and design systems**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-8:-Branding-and-design-systems) *Tuesday, March 5*
 
-9. [**Final review and critique**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-9:-Final-prototype-reviews-and-critique) *Thursday, February 27*
+9. [**Final review and critique**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-9:-Final-prototype-reviews-and-critique) *TBD*
 
 
 *Class structure:*
@@ -67,18 +66,5 @@ This course introduces students to the concepts, methods, techniques, and theory
 
 *Software and tools:*
 
-Design software in general and prototyping software in particular is a changing, and contested space. The current standard is a **Sketch** and **Invision** workflow, using Sketch to create visual systems and Invision to prototype interactions. **Figma** and **Framer** is a newer workflow, and is rapidly catching up in popularity.  
+Design software in general and prototyping software in particular is a changing, and contested space. For this class, we will be using **Figma**, which is a newer workflow, in part because it's available on Mac and PC and has an easy learning curve. Please set up an account at https://www.figma.com/. (If you have front-end coding skills, you may also want to check out Framer, but we won't be doing anything in the scope of this class that requires front-end coding.) 
 
-What’s the difference? Sketch works offline and has a number of plugins, some of which allow the use of real data; Invision has a crazy easy learning curve. But Figma has a couple of (big) advantages: it’s browser-based, so *you don’t need a Mac,* and you can work on the same file with people simultaneously. But you always have to be connected to the internet, and there are no text styles (there is a workaround). Prototyping within Figma is limited, and while it has the Framer integration, Framer is code-based and so the learning curve is steeper. To add to the dilemma, there are a dozen other prototyping tools, all of which have their ups and downs.  
-
-But for now I’m going to recommend that you either:
-
-A) Download Sketch and Invision. Sketch is 50% off for students, InVision is free for us.
-
-or
-
-B) Sign up for Figma and download Framer. Figma is free and Framer is 50% off for students.
-
-If you are on a PC, this is already decided for you (B), but if you’re on a Mac, decide what you would like to spend your time on learning. I am working on getting us licenses for Framer, and you can find information on discounts for Sketch, Invision, and Figma here:
-
-[https://github.com/cornelltech/studio/wiki/Tools-&-Resources](https://github.com/cornelltech/studio/wiki/Tools-&-Resources)
