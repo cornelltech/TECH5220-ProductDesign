@@ -27,9 +27,9 @@ This course introduces students to the concepts, methods, techniques, and theory
 
 *Grading:*
 
-– In-class exercises: 20%
+– Bad/good UX: 20%
 
-– Out-of-class exercises: 60%
+– Exercises: 60%
 
 – Final prototype: 20%
 
