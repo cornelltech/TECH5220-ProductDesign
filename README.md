@@ -46,7 +46,7 @@ This course introduces students to the concepts, methods, techniques, and theory
 
 5. [**Typography Part 2**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-5:-Typography-Part-2) *Tuesday, February 5*
 
-6. [**User experience**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-6:-User-experience-and-User-Flows) *Tuesday, February 12*
+6. [**User experience**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-6:-User-experience-and-User-Flows) *Tuesday, February 12: Class will be held in the Bloomberg Auditorium*
 
 7. [**Product design**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-7:-So-then-what-is-Product-Design%3F) *Tuesday, February 19*
 
