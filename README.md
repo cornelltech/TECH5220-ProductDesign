@@ -52,7 +52,6 @@ This course introduces students to the concepts, methods, techniques, and theory
 
 8. [**Branding and design systems**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-8:-Branding-and-design-systems) *Tuesday, March 5*
 
-9. [**Final review and critique**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-9:-Final-prototype-reviews-and-critique) *TBD*
 
 
 *Class structure:*
