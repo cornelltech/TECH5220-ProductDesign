@@ -5,7 +5,7 @@ This course introduces students to the concepts, methods, techniques, and theory
 *You will not be a full-fledged, "full-stack" digital product designer at the conclusion of this five-week course.* You will, however, understand better how and why we should care about how people experience our products, and how seemingly arbitrary design decisions are in fact *not* arbitrary, and have consequences. We will be both working at the micro-scale (typography, color, form) and at the macro-scale (design patterns, accessibility, ethics) towards this understanding. You will understand better what makes a good designer, so that you’re not just relying on job titles to figure out who knows what. We will also work towards habits of seeing and of critique that will make you a better collaborator with other disciplines.
 
 
-*By the end of this course, students will be able to:*
+**By the end of this course, students will be able to:*
 
 – Contextualize digital product design within the history and current state of a broader range of design practices
 
@@ -16,7 +16,7 @@ This course introduces students to the concepts, methods, techniques, and theory
 – Practice basic design principles for typography, color, composition, and user flows using contemporary prototyping tools
 
 
-*Student responsibilities:*
+### Student responsibilities:
 
 – Come to all classes ready to engage and give feedback
 
@@ -25,16 +25,15 @@ This course introduces students to the concepts, methods, techniques, and theory
 – As with Product studio, absolutely no use of digital devices in class, except for in-class exercises
 
 
-*Grading:*
+### Grading:
 
-– Bad/good UX: 20%
+– Bad/good UX: `20%`
 
-– Exercises: 60%
+– Exercises: `60%`
 
-– Final prototype: 20%
+– Final prototype: `20%`
 
-*Schedule:*
-
+### Schedule:
 
 1. [**Introduction: what is design?**](https://github.com/cornelltech/TECH5220-ProductDesign/wiki/Session-1:-Introduction:-what-is-design%3F) *Tuesday, January 22*
 
@@ -54,16 +53,16 @@ This course introduces students to the concepts, methods, techniques, and theory
 
 
 
-*Class structure:*
+### Class structure:
 
-9:30am–9:40am: UX good/bad/ugly (10min)
+- `9:30am–9:40am`: UX good/bad/ugly (10min)
 
-9:40am–10:20am: Lecture (40min)
+- `9:40am–10:20am`: Lecture (40min)
 
-10:20am–10:45am: Q&A/Exercise (25min)
+- `10:20am–10:45am`: Q&A/Exercise (25min)
 
 
-*Software and tools:*
+### Software and tools:
 
 Design software in general and prototyping software in particular is a changing, and contested space. For this class, we will be using **Figma**, which is a newer workflow, in part because it's available on Mac and PC and has an easy learning curve. Please set up an account at https://www.figma.com/. (If you have front-end coding skills, you may also want to check out Framer, but we won't be doing anything in the scope of this class that requires front-end coding.) 
 
